@@ -1,0 +1,19 @@
+<div class="container-fluid shadow p-3 mb-5 bg-white rounded largura">
+<h4>Lista de Cursos</h4>
+<table class="table table-striped table-houver">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let curso of cursos">
+            <td>{{ curso.id }}</td>
+            <td>{{ curso.nome }}</td>
+        </tr>
+    </tbody>
+
+</table>
+
+</div>
