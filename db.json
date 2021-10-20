@@ -1,0 +1,14 @@
+{
+  "turmas": [
+    { "id": 1, "codigo": "1A", "serie": "1º Série" },
+    { "id": 2, "codigo": "1B", "serie": "1º Série" },
+    { "id": 3, "codigo": "2A", "serie": "2º Série" },
+    { "id": 4, "codigo": "2B", "serie": "2º Série" },
+    { "id": 5, "codigo": "3A", "serie": "3º Série" },
+    { "id": 6, "codigo": "3B", "serie": "3º Série" },
+    { "id": 7, "codigo": "4A", "serie": "4º Série" },
+    { "id": 8, "codigo": "4B", "serie": "4º Série" },
+    { "id": 9, "codigo": "5A", "serie": "5º Série" },
+    { "id": 10, "codigo": "5B", "serie": "5º Série" }
+  ]
+}
